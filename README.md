@@ -1,2 +1,1 @@
-# Earthquake_alert_system
-This project made for science subject and make by using ESP8266 + BlynkIOT as a main system. Thanks to https://www.youtube.com/@TechTrendsShameer  for being inspire this project.
+This project, developed for a science curriculum, establishes an earthquake alert system. Its core functionality is powered by an ESP8266 microcontroller integrated with the Blynk Internet of Things (IoT) platform. The conceptual foundation for this system was significantly inspired by content from an individual accessible via: https://www.youtube.com/@TechTrendsShameer.
